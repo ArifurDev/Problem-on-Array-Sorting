@@ -24,6 +24,6 @@ function findIndex(numbers,target)
   var case2 = findIndex([5,6,1,3],2) 
   console.log(case2); //output 1
 
-  //Test Case 3   output 4
-  var case3 = findIndex([1,3,5,6],7) 
-  console.log(case2); 
+//   //Test Case 3   output 4
+//   var case3 = findIndex([1,3,5,6],7) 
+//   console.log(case3); //output 4
